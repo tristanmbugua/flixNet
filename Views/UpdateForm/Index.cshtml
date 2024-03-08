@@ -1,0 +1,35 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    @* ViewBag.Movie *@
+
+    <head>
+        <style>
+            html {font-family: 'Courier New', Courier, monospace; max-width: 800px;}
+            .header {padding: 10px; background-color: lightgrey;}
+            .single {width: 80%; margin: 10px; display: inline-block;}
+            .double {width: 40%; margin: 10px; display: inline-block;}
+            .triple {width: 25%; margin: 10px; display: inline-block;}
+            .navBar {background-color: darkgray;}
+            .submit {width: 250px; margin: 30px;}
+            .table {font-size: small; min-width: 725px; box-shadow: 0 0 25px darkgray;}
+        </style>
+    </head>
+    <body>
+        <form action="/Update">
+            <!-- Movie Title -->
+                <input class="single" type="text" name="movieTitle" value="@ViewBag.movie.movieTitle" readonly="readonly"/>
+            <!-- Movie Director -->
+                <input class="single" type="text" name="movieDirector" placeholder="Type Movie Director"/>
+            <!-- Genre -->
+                @Html.DropDownList("genre")
+            <!-- Release Time-->
+                <input class="single" type="text" value="@ViewBag.movie.releaseTime" readonly="readonly"/>
+            <!-- Uploader - Assumed -->
+                <input type="submit" value="Submit" name="submit"/>
+        </form>
+    </body>
+</html>

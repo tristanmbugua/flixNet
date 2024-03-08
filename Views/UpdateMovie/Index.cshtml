@@ -1,0 +1,45 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<html>
+    <head>
+        <style>
+            html {font-family: 'Courier New', Courier, monospace; max-width: 800px;}
+            .header {padding: 10px; background-color: lightgrey;}
+            .single {width: 80%; margin: 10px; display: inline-block;}
+            .double {width: 40%; margin: 10px; display: inline-block;}
+            .triple {width: 25%; margin: 10px; display: inline-block;}
+            .navBar {background-color: darkgray;}
+            .submit {width: 250px; margin: 30px;}
+            .table {font-size: small; min-width: 725px; box-shadow: 0 0 25px darkgray;}
+        </style>
+    </head>
+    <div>
+        <table>
+            <tr>
+                <th>Movie Name</th>
+                <th>Director</th>
+                <th>Genre</th>
+                <th>Rating</th>
+            </tr>
+        @foreach (var movie in ViewBag.movieList)
+        {    
+                    <tr>
+                         <td>@movie.movieTitle</td>
+                         <td>@movie.movieDirector</td>
+                         <td>@movie.genre</td>
+                         <td>@movie.averageRating</td>
+                    </tr>
+            @* <p>@movie.Text</p> *@
+        }
+        </table>
+
+        <form action="UpdateForm">
+            <label class="double">Movie Name:</label>
+            @Html.DropDownList("movieName")
+            <input class="single" type="submit"/>
+        </form>
+    </div>
+</html>

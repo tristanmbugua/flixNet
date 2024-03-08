@@ -1,0 +1,15 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+    <form action="AddComment">
+        @Html.DropDownList("movieTitle")
+        <input name="comment" placeholder = "Insert Comment" />
+        <input name="author" value=@Html.ViewBag.username readonly="readonly" />
+        <input name="time" value=@Html.ViewBag.time readonly="readonly" />
+        <input type="submit"/>
+    </form>
+</html>

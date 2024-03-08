@@ -1,0 +1,27 @@
+﻿@{
+
+}
+<html>
+    <head>
+        <style>
+            html {font-family: 'Courier New', Courier, monospace; max-width: 800px;}
+            .single {width: 80%; margin: 10px; display: inline-block;}
+            .submit {width: 250px; margin: 30px;}
+        </style>
+    </head>
+    <form action="/RegisterUser">
+        <div id = "User Info">
+            <div>
+                <label class="single">Username:</label>
+                <input name="username"/>
+            </div>
+
+            <div>
+                <label class="single">Password</label>
+                <input name="password"/>
+            </div>
+            <br/>
+            <input type="submit" value="Register"/>
+        </div>
+    </form>
+</html>

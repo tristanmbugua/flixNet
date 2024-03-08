@@ -1,0 +1,39 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+    <form action="/UpdateComments">
+        <input name="movieName" value=@ViewBag.movieName readonly="readonly"/>
+        <table>
+            <tr>
+                <th>Comment</th>
+                <th>Comment Author</th>
+                <th>Comment Time</th>
+            </tr>
+            @for (int i = 0; i < ViewBag.comments.Count; i++)
+            {
+                List<string> comment = ViewBag.comments[i];
+                <tr>
+                @if (
+                        (comment.ElementAt(1).Equals(ViewBag.username)) 
+                            ||
+                        (comment.ElementAt(1).Equals("blank"))
+                    )
+                {
+                    <td><input name=@String.Concat("comment", i.ToString()) value = "@comment.ElementAt(0)"/></td>
+                }
+                else
+                {
+                    <td><input name=@String.Concat("comment", i.ToString()) value = "@comment.ElementAt(0)" readonly = "readonly"/></td>
+                 }
+                 <td><input name=@String.Concat("author", i.ToString()) value = "@comment.ElementAt(1)" readonly="readonly"/></td>
+                 <td><input name=@String.Concat("time", i.ToString()) value = "@comment.ElementAt(2)" readonly="readonly"/></td>
+                </tr>
+            }
+        </table>
+        <input type="submit" text="Update Comments"/>
+    </form>
+</html>

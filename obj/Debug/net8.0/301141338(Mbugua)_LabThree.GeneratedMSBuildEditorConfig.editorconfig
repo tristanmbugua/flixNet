@@ -1,0 +1,147 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = _301141338_Mbugua__LabThree
+build_property.RootNamespace = _301141338_Mbugua__LabThree
+build_property.ProjectDir = C:\Users\user\OneDrive\Desktop\Life\career\.school\.centennial\_winter2024\APIEngineeringAndCloudComputing\301141338(Mbugua)_LabThree\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
+build_property.MSBuildProjectDirectory = C:\Users\user\OneDrive\Desktop\Life\career\.school\.centennial\_winter2024\APIEngineeringAndCloudComputing\301141338(Mbugua)_LabThree
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/AddComments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/AddComment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRkQ29tbWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/DeleteMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVsZXRlTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/DownloadMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG93bmxvYWRNb3ZpZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Download/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG93bmxvYWRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/EditComments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWRpdENvbW1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/RateMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0ZU1vdmllXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Rate/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmF0ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/ReadComments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVhZENvbW1lbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/RegisterUser/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJVc2VyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Register/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVnaXN0ZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/SearchGenre/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoR2VucmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/SearchRating/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoUmF0aW5nXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Search/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VhcmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Shared/AuthenticationError.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEF1dGhlbnRpY2F0aW9uRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Shared/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Shared/LogInFailure.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ0luRmFpbHVyZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Shared/LogInSuccess.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXExvZ0luU3VjY2Vzcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/SignIn/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2lnbkluXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/UpdateComments/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlQ29tbWVudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/UpdateForm/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlRm9ybVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/UpdateMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Update/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBkYXRlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/UploadMovie/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBsb2FkTW92aWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Upload/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXBsb2FkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/OneDrive/Desktop/Life/career/.school/.centennial/_winter2024/APIEngineeringAndCloudComputing/301141338(Mbugua)_LabThree/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-011nepw5h2

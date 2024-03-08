@@ -1,0 +1,18 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<html>
+    <form action="/SearchGenre">
+        @Html.DropDownList("genre")
+        <button type="submit" value="submit">Search By Genre</button>
+    </form>
+
+    <form action="/SearchRating">
+        <input type="number"  min="0" max="10" name = "min" placeholder="Insert Minimum Rating"/>
+        <input type="number" min="0" max="10" name = "max" placeholder="Insert Maximum Rating"/>
+        <button type="submit" value="submit">Search By Rating</button>
+    </form>
+</html>
